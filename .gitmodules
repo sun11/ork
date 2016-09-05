@@ -1,0 +1,33 @@
+[submodule "capture"]
+	path = capture
+	url = https://github.com/wg-perception/capture
+[submodule "linemod"]
+	path = linemod
+	url = https://github.com/wg-perception/linemod
+[submodule "object_recognition_core"]
+	path = object_recognition_core
+	url = https://github.com/wg-perception/object_recognition_core
+[submodule "object_recognition_msgs"]
+	path = object_recognition_msgs
+	url = https://github.com/wg-perception/object_recognition_msgs
+[submodule "object_recognition_ros"]
+	path = object_recognition_ros
+	url = https://github.com/wg-perception/object_recognition_ros
+[submodule "object_recognition_ros_visualization"]
+	path = object_recognition_ros_visualization
+	url = https://github.com/wg-perception/object_recognition_ros_visualization
+[submodule "reconstruction"]
+	path = reconstruction
+	url = https://github.com/wg-perception/reconstruction
+[submodule "tabletop"]
+	path = tabletop
+	url = https://github.com/wg-perception/tabletop
+[submodule "tod"]
+	path = tod
+	url = https://github.com/wg-perception/tod
+[submodule "transparent_objects"]
+	path = transparent_objects
+	url = https://github.com/wg-perception/transparent_objects
+[submodule "ork_renderer"]
+	path = ork_renderer
+	url = https://github.com/sun11/ork_renderer
