@@ -1,9 +1,6 @@
 [submodule "capture"]
 	path = capture
 	url = https://github.com/wg-perception/capture
-[submodule "linemod"]
-	path = linemod
-	url = https://github.com/wg-perception/linemod
 [submodule "object_recognition_core"]
 	path = object_recognition_core
 	url = https://github.com/wg-perception/object_recognition_core
