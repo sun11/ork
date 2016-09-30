@@ -28,3 +28,6 @@
 [submodule "ork_renderer"]
 	path = ork_renderer
 	url = https://github.com/sun11/ork_renderer
+[submodule "linemod"]
+	path = linemod
+	url = https://github.com/sun11/linemod
